@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\lib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|C:\\Users\\ASUS\\Desktop\\lib\\lib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|solutionrelative:lib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|c:\\users\\asus\\desktop\\lib\\lib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|solutionrelative:lib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|C:\\Users\\ASUS\\Desktop\\lib\\lib\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|solutionrelative:lib\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|C:\\Users\\ASUS\\Desktop\\lib\\lib\\Magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|solutionrelative:lib\\Magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|C:\\Users\\ASUS\\Desktop\\lib\\lib\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|solutionrelative:lib\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|C:\\Users\\ASUS\\Desktop\\lib\\lib\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|solutionrelative:lib\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\Magazine.cs",
+              "RelativeDocumentMoniker": "lib\\Magazine.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\Magazine.cs",
+              "RelativeToolTip": "lib\\Magazine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:30:00.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\Form1.cs",
+              "RelativeDocumentMoniker": "lib\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "lib\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:05:04.092Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\Form1.cs",
+              "RelativeDocumentMoniker": "lib\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\Form1.cs",
+              "RelativeToolTip": "lib\\Form1.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAADwv8EAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:38:30.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\Library.cs",
+              "RelativeDocumentMoniker": "lib\\Library.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\Library.cs",
+              "RelativeToolTip": "lib\\Library.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:32:42.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\User.cs",
+              "RelativeDocumentMoniker": "lib\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\User.cs",
+              "RelativeToolTip": "lib\\User.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:32:22.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\Book.cs",
+              "RelativeDocumentMoniker": "lib\\Book.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\lib\\lib\\Book.cs",
+              "RelativeToolTip": "lib\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:29:33.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

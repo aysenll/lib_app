@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\lib\lib\bin\Debug\lib.exe.config
+C:\Users\ASUS\Desktop\lib\lib\bin\Debug\lib.exe
+C:\Users\ASUS\Desktop\lib\lib\bin\Debug\lib.pdb
+C:\Users\ASUS\Desktop\lib\lib\obj\Debug\lib.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\lib\lib\obj\Debug\lib.Form1.resources
+C:\Users\ASUS\Desktop\lib\lib\obj\Debug\lib.Properties.Resources.resources
+C:\Users\ASUS\Desktop\lib\lib\obj\Debug\lib.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\lib\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\lib\lib\obj\Debug\lib.exe
+C:\Users\ASUS\Desktop\lib\lib\obj\Debug\lib.pdb
