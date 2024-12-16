@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\lib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|C:\\Users\\ASUS\\Desktop\\lib\\lib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|c:\\users\\asus\\desktop\\lib\\lib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|solutionrelative:lib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|c:\\users\\asus\\desktop\\lib\\lib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|C:\\Users\\ASUS\\Desktop\\lib\\lib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C032D85-02D2-4DF9-8ADE-99FED973CCEC}|lib\\lib.csproj|solutionrelative:lib\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "lib\\Magazine.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:30:00.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T09:30:00.113Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "lib\\Form1.cs",
               "ViewState": "AgIAAIQAAAAAAAAAAADwv8EAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T14:38:30.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T14:38:30.372Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "lib\\Library.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:32:42.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T09:32:42.947Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "lib\\User.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:32:22.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T09:32:22.858Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "lib\\Book.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:29:33.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T09:29:33.493Z"
             }
           ]
         }
